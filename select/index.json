@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "閃光少女",
+  "base_artist": "Tokyo Incidents",
+  "createdAt": "2026-04-02T16:13:01.414625Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "閃光少女",
+      "artist": "Tokyo Incidents",
+      "has_synced": false,
+      "path": "select/01_閃光少女_Tokyo_Incidents.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "閃光少女",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/02_閃光少女_東京事変.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "閃光少女",
+      "artist": "東京事変",
+      "has_synced": true,
+      "path": "select/03_閃光少女_東京事変.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "因愛閃光 - 《閃光少女》「真我」旗艦概念曲",
+      "artist": "LaLa Hsu",
+      "has_synced": false,
+      "path": "select/04_因愛閃光_-_《閃光少女》「真我」旗艦概念曲_LaLa_Hsu.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "閃光少女",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/05_閃光少女_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "閃光少女 (Spa & Treatmentより)",
+      "artist": "東京事変",
+      "has_synced": true,
+      "path": "select/06_閃光少女_(Spa_&_Treatmentより)_東京事変.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Senkō Shōjo [閃光少女]",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/07_Senkō_Shōjo_[閃光少女]_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "閃光少女",
+      "artist": "Tokyo Jihen",
+      "has_synced": true,
+      "path": "select/08_閃光少女_Tokyo_Jihen.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "閃光少女",
+      "artist": "東京事変",
+      "has_synced": true,
+      "path": "select/09_閃光少女_東京事変.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "閃光少女",
+      "artist": "東京事変",
+      "has_synced": true,
+      "path": "select/10_閃光少女_東京事変.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "閃光少女",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/11_閃光少女_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "用盡我的一切奔向你 - 《閃光少女》「友情」旗艦概念曲",
+      "artist": "Bibi Zhou",
+      "has_synced": true,
+      "path": "select/12_用盡我的一切奔向你_-_《閃光少女》「友情」旗艦概念曲_Bibi_Zhou.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "閃光少女",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_01_閃光少女_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "閃光少女",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_02_閃光少女_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "閃光少女",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_03_閃光少女_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "閃光少女 (Spa & Treatmentより)",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_04_閃光少女_(Spa_&_Treatmentより)_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "閃光少女",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_05_閃光少女_東京事変.txt"
+    }
+  ]
+}
